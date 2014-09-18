@@ -1,1 +1,1 @@
-Hello , this is my first project comitted using git
+Hello , this is my first project comitted using github
